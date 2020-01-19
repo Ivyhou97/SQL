@@ -1,4 +1,2 @@
 # SQL
-Leetcode Solution
-
-
+LeetCode SQL Solutions
